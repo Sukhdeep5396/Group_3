@@ -5,11 +5,11 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-      <Text> Sukhdeep Singh </Text>
+    
       <Text style={styles.long}>Minh Long Vu</Text>
 
       <Text style={styles.heading}> Sukhdeep Singh </Text>
-      <Text>Minh Long Vu</Text>
+      
 
       <StatusBar style="auto" />
     </View>
